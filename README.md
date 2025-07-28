@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kutluhan Boz</h1>
+<h3 align="center">IT Uzmanı & Android Developer from Türkiye 🇹🇷</h3>
 
-<!--
-**Kutlu01/Kutlu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💼 Hakkımda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Bilişim Sistemleri ve Teknolojileri** mezunuyum.  
+💼 Profesyonel olarak **IT Uzmanı** olarak çalışıyorum.  
+📱 Mobil uygulama geliştirme, proje yönetimi ve gömülü sistemlerle ilgileniyorum.
+
+---
+
+### 🚀 İlgi Alanlarım
+
+- 📲 **Android Uygulama Geliştirme**
+  - Kotlin & Android Studio
+- 🤖 **Arduino / ESP8266 ile IoT Projeleri**
+  - Akıllı ev sistemleri, sensörler, IR kontrol
+- 🎨 **Frontend Geliştirme**
+  - Temel Web Arayüzleri (HTML, CSS)
+- 📋 **Proje Yönetimi**
+  - Planlama, kaynak yönetimi, sistem mimarisi
+
+---
+
+### 🛠️ Kullandığım Araç ve Teknolojiler
+
+| Teknoloji     | Açıklama                           |
+|---------------|------------------------------------|
+| Kotlin        | Android uygulama geliştirme        |
+| Android Studio| Mobil arayüz ve yazılım geliştirme |
+| Arduino IDE   | ESP8266 / IR / IoT projeleri       |
+| Firebase      | Gerçek zamanlı veri kontrolü       |
+| Git & GitHub  | Sürüm kontrol ve iş birliği        |
+| Trello / Jira | Proje planlama ve görev yönetimi   |
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kutluhanboz&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kutluhanboz&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 İletişim
+
+- 📧 E-posta: **ahmetkutluhanboz@gmail.com**
+- 🌐 [LinkedIn Profilim](https://linkedin.com/in/kutluhanboz) *(eğer varsa buraya doğru link ekleyelim)*
+
+---
+
+<p align="center">
+  💻 Kod yazmayı, ☁️ sistem kurmayı ve 👥 ekip çalışmasını seviyorum.
+</p>
