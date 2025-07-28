@@ -5,8 +5,7 @@
 
 ### 💼 Hakkımda
 
-🎓 **Bilişim Sistemleri ve Teknolojileri** mezunuyum.  
-💼 Profesyonel olarak **IT Uzmanı** olarak çalışıyorum.  
+🎓 **Bilişim Sistemleri ve Teknolojileri** mezunuyum.   
 📱 Mobil uygulama geliştirme, proje yönetimi ve gömülü sistemlerle ilgileniyorum.
 
 ---
